@@ -1,2 +1,2 @@
 # avinashsreeram.github.io
-Story blog of my Mother
+My github portfolio
