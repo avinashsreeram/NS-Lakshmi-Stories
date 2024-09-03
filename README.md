@@ -1,2 +1,2 @@
 # Personal Portfolio
-THis is the perfornal portfolio of Avinash Sreeram. 
+This is the perfornal portfolio of Avinash Sreeram. 
